@@ -1,6 +1,6 @@
 # NYC Taxi Yellow Project
 ## 1. Introduction:
-This project helps tracking the Taxi System through Power BI dashboard. The data will be updated regularly using my designed pipeline in Microsoft Fabric. 
+This project helps tracking the Taxi System through Power BI dashboard. The data will be updated regularly using my designed pipeline in Microsoft Fabric, followed by SQL script to create some data tables to record logs and create procedures.
 
 ## 2. Preview Images: 
 These are the screenshots of my dashboard. My full working steps and report can be viewed here: [Report Link](https://github.com/minhD03/NYCTaxi_Yellow-Project/blob/cf2e4579d42d79dbeb3748a0bd6376449f71965e/NYCTaxi%20-%20Nhat%20Minh%20Dang.pdf)
