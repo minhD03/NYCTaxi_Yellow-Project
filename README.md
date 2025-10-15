@@ -6,7 +6,7 @@ This project helps tracking the Taxi System through Power BI dashboard. The data
 These are the screenshots of my dashboard. My full working steps and report can be viewed here: [Report Link](https://github.com/minhD03/NYCTaxi_Yellow-Project/blob/cf2e4579d42d79dbeb3748a0bd6376449f71965e/NYCTaxi%20-%20Nhat%20Minh%20Dang.pdf)
 
 ![alt text](https://github.com/minhD03/NYCTaxi_Yellow-Project/blob/cf2e4579d42d79dbeb3748a0bd6376449f71965e/Images/Dashboard%201.png)
-![alt text](https://github.com/minhD03/Payroll-Project/blob/34def8fb7416c1a571bd876d1d7e0f672d19944f/Images/Dashboard%202.png)
+![alt text](https://github.com/minhD03/NYCTaxi_Yellow-Project/blob/a202044c0b1a00f632828f4454ae10cccc486d5c/Images/Dashboard%202.png)
 
 ## 3. About Dataset:
 
