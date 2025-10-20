@@ -8,7 +8,7 @@ This document describes and explains the full SQL workflow for processing **NYC 
 ## 1. Check Data Range in Staging Table
 
 ### 🧾 Code
-```sql
+
 SELECT
 MIN(tpep_pickup_datetime) AS min_pickup,
 MAX(tpep_pickup_datetime) AS max_pickup
