@@ -3,7 +3,7 @@
 This project helps tracking the Taxi System through Power BI dashboard. The data will be updated regularly using my designed pipeline in Microsoft Fabric, followed by SQL script to create some data tables to record logs and create procedures.
 
 ## 2. Preview Dashboard: 
-These are the screenshots of my dashboard. My full working steps and report can be viewed here: [Report Link](https://github.com/minhD03/NYCTaxi_Yellow-Project/blob/cf2e4579d42d79dbeb3748a0bd6376449f71965e/NYCTaxi%20-%20Nhat%20Minh%20Dang.pdf)
+These are the screenshots of my dashboard. My full working steps and report can be viewed here: [Report Link](https://github.com/minhD03/NYCTaxi_Yellow-Project/blob/cf2e4579d42d79dbeb3748a0bd6376449f71965e/NYCTaxi%20-%20Nhat%20Minh%20Dang.pdf) and [For SQL script](https://github.com/minhD03/NYCTaxi_Yellow-Project/blob/49dc5cbf40d22f14cb23e99870fbfb0499eeaeda/SQL%20Code/README.md)
 
 ![alt text](https://github.com/minhD03/NYCTaxi_Yellow-Project/blob/00fe0c0c4617af91d88986631a60ce1577a13217/Images/Dashboard%201.png)
 ![alt text](https://github.com/minhD03/NYCTaxi_Yellow-Project/blob/00fe0c0c4617af91d88986631a60ce1577a13217/Images/Dashboard%202.png)
