@@ -1,4 +1,4 @@
-# NYC Taxi Yellow Project
+# NYC Taxi Yellow Project [(Live Report Publish)](https://app.powerbi.com/view?r=eyJrIjoiY2I4YWI0NTUtOTljZS00NWRiLWE0NGQtMWYyODg1MWJmNzUzIiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
 ## 1. Introduction:
 This project helps tracking the Taxi System through Power BI dashboard. The data will be updated regularly using my designed pipeline in Microsoft Fabric, followed by SQL script to create some data tables to record logs and create procedures.
 
